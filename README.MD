@@ -21,7 +21,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Lexica](hhttps://lexica.art/)
+- [Lexica](https://lexica.art/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -65,7 +65,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
    </p>
 </p>
 <br/><br/>
-<p>
 
 ---
 
