@@ -49,22 +49,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 👨‍💻 Expert
 
 <p>
-    
-    <p>&nbsp&nbsp&nbspSandra Rojas<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/SandraRojasZ">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.linkedin.com/in/sandra-zegarrundo">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-   </p>
+  Sandra Rojas<br>
+  <a href="https://github.com/SandraRojasZ">GitHub</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/sandra-zegarrundo">LinkedIn</a>
 </p>
-<br/><br/>
+<br><br>
 
 ---
 
